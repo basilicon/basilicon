@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @basilicon
 - 👀 I’m interested in making games and tools
-- 🌱 I’m currently learning Avalonia, Godot, AI and machine learning.
-- 💞️ I’m looking to collaborate on projects related to AI.
+- 🌱 I’m currently learning Godot, AI, and machine learning.
+- 💞️ I’m looking to collaborate on projects related to AI and game development.
 - 📫 Contact me through discord (@basilicon)
 
 <!---
